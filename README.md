@@ -1,4 +1,4 @@
-##Neural Style Transfer
+# Neural Style Transfer
 - final: This is our final project!!!
 - CNN.ipynb: 源代码 可直接在github中点开浏览！
 - nst_utils.py: 定义了一些函数，在CNN.ipynb中直接调用
